@@ -1,0 +1,28 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	margin: 15px;
+}
+
+header {
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+form input, button {
+	display: block;
+	width: 100%;
+}
+
+button {
+	margin: 10px 0px 10px;
+}
+
+.contenedor {
+	display: flex;
+	justify-content: space-between;
+}
